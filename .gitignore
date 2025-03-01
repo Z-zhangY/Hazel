@@ -1,0 +1,7 @@
+#注释
+.vs/
+bin/
+bin-int/
+
+#Files 
+*.user
